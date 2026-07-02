@@ -14,7 +14,7 @@ window.fps_counter.enabled = False
 window.exit_button.visible = False
  
 punch = Audio('assets/punch', autoplay=False)
-  
+   
 blocks = [
     load_texture('assets/grass.png'), # 0
     load_texture('assets/grass.png'), # 1
