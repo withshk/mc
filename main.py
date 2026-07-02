@@ -12,7 +12,7 @@ run_speed = 5 # Default: 5
 
 window.fps_counter.enabled = False
 window.exit_button.visible = False
-
+ 
 punch = Audio('assets/punch', autoplay=False)
  
 blocks = [
